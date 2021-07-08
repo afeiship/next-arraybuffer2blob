@@ -39,5 +39,15 @@
   "publishConfig": {
     "access": "public",
     "registry": "https://registry.npmjs.org"
-  }
+  },
+  "keywords": [
+    "next",
+    "array",
+    "buffer",
+    "blob",
+    "url",
+    "image",
+    "base64",
+    "b64"
+  ]
 }
